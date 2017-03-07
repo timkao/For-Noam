@@ -1,2 +1,2 @@
 # For Myself
-To record my python codes in github just in Case
+To record my python codes in github just in case
