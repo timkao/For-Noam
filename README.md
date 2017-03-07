@@ -1,3 +1,2 @@
-# For-Noam
-Two files. One is a game BlackJack and the other is a sample using Pandas and Matplotlib.
-
+# For Myself
+To record my python codes in github just in Case
